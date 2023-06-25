@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftyCalendar'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Supports SwiftUI calendar UI.'
   s.description      = 'Library that supports SwiftUI calendar UI.'
 
