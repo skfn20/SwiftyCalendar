@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.author           = { 'skfn20' => 'skfn20@gmail.com' }
   s.source           = { :git => 'https://github.com/skfn20/SwiftyCalendar.git', :tag => s.version.to_s }
   s.ios.deployment_target = '14.0'
-  s.source_files = 'SwiftyCalendar/Classes/**/*'
+  s.source_files = 'SwiftyCalendar/Sources/**/*.swift'
 end
